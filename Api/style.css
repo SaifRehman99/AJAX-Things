@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    padding: 10px;
+}
+.center{
+    text-align: center;
+}
+.users{
+    display: flex;
+    background-color: lightgray;
+    margin-bottom: 10px;
+}
+ul{
+    list-style: none;
+}
