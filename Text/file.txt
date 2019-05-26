@@ -1,0 +1,1 @@
+Hello,this is Saif ur Rehman.This is a simple text file and I will fetch it using xhr object
